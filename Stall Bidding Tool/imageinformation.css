@@ -1,0 +1,21 @@
+.top{
+   padding:2%;
+  margin:0%;
+  color: #FFFFFF;
+  background-color: #566573;
+}
+.text{
+	color: white;
+}
+.total{
+	padding-:0% 5% 5% 10%;
+	background-color: black;
+}
+.mid{
+padding-left:10%;
+}
+Button{
+	width:150px;
+	heigght:50px;
+	background-color: white;
+}

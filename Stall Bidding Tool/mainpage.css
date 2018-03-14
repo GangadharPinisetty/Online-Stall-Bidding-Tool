@@ -1,0 +1,27 @@
+.top{
+   padding:2%;
+  margin:0%;
+  text-align:center;
+  color: #FFFFFF;
+  background-color: #566573;
+}
+.bottom{
+  color:white;
+  text-align:center;
+  padding:10%;
+}
+h3{
+  color:white;
+}
+#a{
+	text-decoration:none;
+	color:#00BFFF;
+}
+.f{
+  padding-right:5%;
+  color:white;
+}
+.g{
+  padding-left:5%;
+  color:white;
+}

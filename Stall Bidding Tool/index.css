@@ -1,0 +1,265 @@
+.top{
+   padding:2%;
+  margin:0%;
+  text-align:center;
+  color: #FFFFFF;
+  background-color: #566573;
+}
+.totalform{
+    padding-top:20px;.top{
+
+    padding:2%;
+    
+    margin:0%;
+    
+    text-align:center;
+    
+    color: #FFFFFF;
+    
+    background-color: #566573;
+    background-image: url("bid1.jpg");
+    
+}
+    
+.background{
+    
+    background-image: url("bid1.jpg");
+    
+    padding:0%;
+    margin:0%;
+    
+}
+    
+.middle{
+    
+    font-size:25px;
+    
+    text-align:center;
+    margin-top: 10%;
+    
+    margin-down: 0%;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 5%;
+    
+    background-color: #17202A;
+    
+    
+}
+    .admin {
+    
+        float:left;
+    
+    border-radius: 4px;
+    
+    background-color: black;
+    
+    border: none;
+    
+    color: #FFFFFF;
+    
+    text-align: center;
+    
+    font-size: 28px;
+    
+    padding: 20px;
+    
+    width: 200px;
+    
+    transition: all 0.5s;
+    
+    cursor: pointer;
+    
+    margin-top: 2%;
+    
+}
+    
+    
+    .admin span {
+    
+    cursor: pointer;
+    
+    display: inline-block;
+    
+    position: relative;
+    
+    transition: 0.5s;
+    
+}
+    
+    
+.admin span:after {
+    
+    content: '\00bb';
+    
+    position: absolute;
+    
+    opacity: 0;
+    
+    top: 0;
+    
+    right: -20px;
+    
+    transition: 0.5s;
+    
+}
+    
+    
+.admin:hover span {
+    
+    padding-right: 25px;
+    
+}
+    
+    
+.admin:hover span:after {
+    
+    opacity: 1;
+    
+    right: 0;
+    
+}
+    
+    
+.loginadmin {
+    
+        display: block;
+    
+        width: 100%;
+    
+        border: none;
+    
+        background-color:#2ECC71;
+    
+        color: white;
+    
+        padding: 3% 18%;
+    
+        font-size: 18px;
+    
+        cursor: pointer;
+    
+        text-align: center;
+    
+}
+    
+    
+    
+.button {
+    
+    float:right;
+    
+    border-radius: 4px;
+    
+    background-color: #E74C3C;
+    
+    border: none;
+    
+    color: #FFFFFF;
+    
+    text-align: center;
+    
+    font-size: 28px;
+    
+    padding: 20px;
+    
+    width: 200px;
+    
+    transition: all 0.5s;
+    
+    cursor: pointer;
+    
+    margin-top: 2%;
+    
+}
+    
+    
+.button span {
+    
+    cursor: pointer;
+    
+    display: inline-block;
+    
+    position: relative;
+    
+    transition: 0.5s;
+    
+}
+    
+    
+.button span:after {
+    
+    content: '\00bb';
+    
+    position: absolute;
+    
+    opacity: 0;
+    
+    top: 0;
+    
+    right: -20px;
+    
+    transition: 0.5s;
+    
+}
+    
+    
+.button:hover span {
+    
+    padding-right: 25px;
+    
+}
+    
+    
+.button:hover span:after {
+    
+    opacity: 1;
+    
+    right: 0;
+    
+}
+    
+    
+.loginbutton {
+    
+    display: block;
+
+    width: 100%;
+
+    border: none;
+
+    background-color:#2ECC71;
+
+    color: white;
+
+    padding: 3% 18%;
+
+    font-size: 18px;
+
+    cursor: pointer;
+
+    text-align: center;
+    
+}
+    
+    
+.bottom{
+    background-color:black;
+    font-size:15px;
+    color:white;
+    padding:2% 2% 1% 2%;
+    margin: 0%;
+}
+#us{
+    
+    color:#F7F9F9;
+    
+}
+    
+a{
+    
+        text-decoration:none;
+    
+        color:white;   
+    
+ }
